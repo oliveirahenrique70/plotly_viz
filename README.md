@@ -1,3 +1,9 @@
+## HTML File Example
+
+Below is a simple HTML page:
+
+```html
+<!DOCTYPE html>
 <html>
 <head><meta charset="utf-8" /><script type="text/javascript" src="http://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=aRL4Vv5_gKaS9Z1BaThkv3Qo7gVqlr-YaPKtb3u2Pp4ku0NCNx3PzgAG_nE9pLFueoQsVQMjQuZf0klX4eIIlgirURv-xxOESiEsm70ommrYBKge9pJXXyC-XG9IDKot" charset="UTF-8"></script><link rel="stylesheet" crossorigin="anonymous" href="http://gc.kis.v2.scr.kaspersky-labs.com/E3E8934C-235A-4B0E-825A-35A08381A191/abn/main.css?attr=aHR0cDovL2xvY2FsaG9zdDo4ODg4L2ZpbGVzL1dhdGNoZXNfUHJvamVjdC9wbG90X21vYmlsZS5odG1sP2Rvd25sb2FkPTE"/></head>
 <body>
